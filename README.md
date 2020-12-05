@@ -1,2 +1,2 @@
 # QASystem
-Question Answering System using NLP techniques as RNN/LSTM and Transformers
+Question Answering System using NLP and AI techniques as RNN/LSTM and Transformers
