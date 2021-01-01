@@ -1,2 +1,2 @@
 # QASystem
-Question Answering System using NLP and AI techniques as RNN/LSTM and Transformers
+Question Answering System using the model DistillBETO for spanish Texts and Streamlit
